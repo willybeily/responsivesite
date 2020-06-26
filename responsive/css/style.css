@@ -50,8 +50,8 @@ color: white;
     margin-top: 10px;
 }
 .logo img{
-   height: 20%;
-   width: 20%;
+   height: 40%;
+   width: 40%;
    border: turquoise solid;
    border-radius: 50px;
    vertical-align: center;
@@ -115,7 +115,7 @@ margin-right: 10%
 }
 #search{
     width: 400px;
-    height: 90px;
+    height: 40px;
     font-size: 30px;
     margin-left: 40px;
     margin-right: 10px;
