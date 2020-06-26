@@ -17,7 +17,7 @@
 }
 
 .nav-list{
- width: 30%;
+ width: 50%;
 background-color: black;
  display: flex;
  height: 200px;
@@ -61,7 +61,7 @@ color: white;
 .rightNav{
 background-color: black;
 
-width: 80%;
+width: 50%;
 height: 200px;
 align-items: right;
 justify-content: right;
