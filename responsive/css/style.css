@@ -291,20 +291,23 @@ top: 15px;
     }
     #search{
         width: 200px;
-        margin-left: 500px;
-        height: 40px;
-        border-radius: 20px;
+    margin-left: 20px;
+    height: 40px;
+    border-radius: 20px;
+    
     }
     #navbut{
-        margin-left: 200px;
-        height: 30px ;
+        margin-left: 50;
+        height: 30px;
         width: 100px;
         font-size: 20px;
+        align-items: center;
     }
     .logo img{
         height: 50px;
         width: 50px;
         margin-left: 30px;
+        margin-top: 10px;
     }
     .background{
         background: rgba(0, 0, 0, 0.7) url('../img/newyork.jpg');
@@ -389,5 +392,13 @@ top: 15px;
 
     .v-class-resp{
         opacity: 0;
+    }
+
+    .nav-list li{
+        list-style: none;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-top: 5px;
+        margin-top: 5px;
     }
 }
